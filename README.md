@@ -1,2 +1,2 @@
 # NFC-Reader
-Android App to read NFC tags
+An Simple Android APP to read NFC tags
